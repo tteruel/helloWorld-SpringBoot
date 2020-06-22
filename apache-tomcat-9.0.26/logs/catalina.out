@@ -117,3 +117,5 @@
 30-Sep-2019 19:37:40.012 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
 30-Sep-2019 19:37:40.014 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
 30-Sep-2019 19:37:40.015 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+/d/Development-projects/SpringBoot/apache-tomcat-9.0.26/bin/catalina.sh: line 467: C:\Program Files\Java\jdk-13.0.2\bin/bin/java: No such file or directory
+/d/Development-projects/SpringBoot/apache-tomcat-9.0.26/bin/catalina.sh: line 467: C:\Program Files\Java\jdk-13.0.2\bin/bin/java: No such file or directory
