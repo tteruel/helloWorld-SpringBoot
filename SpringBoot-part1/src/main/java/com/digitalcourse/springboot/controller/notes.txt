@@ -1,0 +1,3 @@
+mvn clean package  - command to build the project it will result in a jar file builded.
+
+
